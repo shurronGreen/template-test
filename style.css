@@ -20,10 +20,10 @@ body {
 
 .quote-container {
   width: auto;
-  max-width: 800px;
-  padding: 20px 30px;
-  border-radius: 10px;
-  background-color: rgba(184, 162, 91, 0.404);
+  max-width: 775px;
+  padding: 30px 30px;
+  border-radius: 26px;
+  background-color: rgba(184, 162, 91, 0.473);
   box-shadow: 0 10px 10px 10px rgba(7, 7, 7, 0.452);
 }
 
@@ -41,8 +41,8 @@ body {
 
 .quote-author {
   margin-top: 15px;
-  font-size: 2rem;
-  font-weight: 200;
+  font-size: 1.85rem;
+  font-weight: 300;
   font-style: italic;
 }
 
@@ -64,6 +64,7 @@ button {
   padding: 0.5rem 1.8rem;
   box-shadow: 0 0.3rem rgba(121, 121, 121, 0.65);
 }
+
 
 button:hover {
   filter: brightness(110%);
